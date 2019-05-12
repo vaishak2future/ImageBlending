@@ -1,4 +1,4 @@
-#Gradient Domain Blending# 
+# Gradient Domain Blending# 
 
 **Edit Test_script.py with the path to your source, target and mask images**
 
